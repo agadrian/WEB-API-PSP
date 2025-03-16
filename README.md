@@ -8,7 +8,7 @@ dotnet new webapi -n MyAPI --framework net8.0 --use-controllers
 
 dotnet new webapi --use-controllers -o MyAPI
 
-cd TodoApi
+cd MyAPI
 
 dotnet add package Microsoft.EntityFrameworkCore.InMemory
 
