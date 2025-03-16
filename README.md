@@ -134,8 +134,8 @@ docker run -p 5000:8080 myapi
 
 ### Capturas pruebas
 
-[**Prueba**](res/1.png)
+![**Prueba**](res/1.png)
 
-[**Prueba**](res/2.png)
+![**Prueba**](res/2.png)
 
-[**Prueba**](res/3.png)
+![**Prueba**](res/3.png)
